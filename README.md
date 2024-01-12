@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickLubbers
-- 👀 I’m interested in building iOS apps
-- 🌱 I’m currently learning the Swift programming language
+- 👀 I’m interested in building iOS apps 
+- 🌱 I’m currently learning the Swift programming language as well as PHP
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me email: rosevalley@gmail.com
 
